@@ -11,8 +11,7 @@ Dec2Bin allows the user to enter integers and displays its binary equivalent
 This challenge requires that the developer implementing it follow these constraints:
 
 -  Only integer datatype is allowed as the input.
--  The binary of a particular integer in the string must be calculated using a single mathematical function. It's up to the uer to figure out which function to use.
--  Only strings are allowed as the output binary
+-  The binary output of the integer must be a string.
 
 ## User Stories
 
