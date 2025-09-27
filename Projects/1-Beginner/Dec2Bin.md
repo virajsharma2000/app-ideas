@@ -31,6 +31,6 @@ This challenge requires that the developer implementing it follow these constrai
 [Binary number system](https://en.wikipedia.org/wiki/Binary_number)
 
 ## Example projects
-- [decimal to binary program geeks for geeks] (https://www.geeksforgeeks.org/dsa/program-decimal-binary-conversion/)
+- [Decimal to binary program (GeeksForGeeks)](https://www.geeksforgeeks.org/dsa/program-decimal-binary-conversion/)
 
 # HAPPY CODING!!
